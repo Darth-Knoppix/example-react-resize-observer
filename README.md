@@ -1,3 +1,5 @@
+<img src="https://blog.sethcorker.com/content/images/size/w2000/2019/10/Medium.jpg" alt="A title card with the text: Resize Observer API with React"/>
+
 # Example of Resize Observer API with React
 
 - [Demo](https://example-react-resize-observer.sethcorker.com/)
